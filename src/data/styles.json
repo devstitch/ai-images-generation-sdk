@@ -1,0 +1,53 @@
+{
+  "styles": [
+    {
+      "id": "modern-minimalist",
+      "name": "Modern Minimalist",
+      "description": "Clean lines, neutral colors, and uncluttered spaces with a focus on functionality and simplicity.",
+      "prompt": "Modern minimalist interior design with clean geometric lines, neutral color palette (whites, grays, beiges), chairs, tables and other furniture, open spaces, natural light, simple textures, and focus on functionality. Avoid clutter, use monochromatic schemes, and emphasize negative space."
+    },
+    {
+      "id": "scandinavian",
+      "name": "Scandinavian",
+      "description": "Light, airy spaces with natural materials, cozy textiles, and hygge-inspired comfort.",
+      "prompt": "Scandinavian interior design featuring light wood floors, white walls, natural materials (wood, wool, linen), cozy textiles, minimalist furniture, plants, candles, warm lighting, neutral colors with occasional pastels, and hygge-inspired comfort. Include elements like sheepskin rugs, woven baskets, and simple geometric patterns."
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial",
+      "description": "Raw, unfinished aesthetic with exposed brick, metal fixtures, and utilitarian design elements.",
+      "prompt": "Industrial interior design with exposed brick walls, concrete floors, metal fixtures, raw wood beams, exposed ductwork and pipes, vintage factory lighting, distressed leather furniture, metal shelving, neutral color palette (grays, blacks, browns), and utilitarian design. Include Edison bulbs, reclaimed wood, and urban loft aesthetic."
+    },
+    {
+      "id": "bohemian",
+      "name": "Bohemian",
+      "description": "Eclectic mix of patterns, colors, and textures with a free-spirited, artistic vibe.",
+      "prompt": "Bohemian interior design featuring vibrant colors, mixed patterns (geometric, floral, ethnic), layered textiles, plants and greenery, vintage furniture, macramé, tapestries, floor cushions, eclectic art, warm lighting, and free-spirited aesthetic. Include elements like Persian rugs, Moroccan poufs, and handcrafted items."
+    },
+    {
+      "id": "mid-century-modern",
+      "name": "Mid-Century Modern",
+      "description": "Retro-inspired design with organic curves, bold colors, and iconic furniture pieces from the 1950s-60s.",
+      "prompt": "Mid-century modern interior design with clean lines, organic curves, teak and walnut wood furniture, bold accent colors (mustard yellow, teal, orange), geometric patterns, atomic age motifs, iconic furniture pieces (Eames chairs, tulip tables), large windows, and retro aesthetic. Include elements like sunburst clocks, abstract art, and tapered legs on furniture."
+    },
+    {
+      "id": "contemporary",
+      "name": "Contemporary",
+      "description": "Current, evolving design style that blends modern elements with comfort and personal expression.",
+      "prompt": "Contemporary interior design featuring current trends, clean lines mixed with curves, neutral base colors with bold accents, mixed materials (glass, metal, wood, stone), comfortable furniture, art and accessories, natural light, and personalized touches. Include elements like statement lighting, abstract art, and a balance between minimalism and comfort."
+    },
+    {
+      "id": "traditional",
+      "name": "Traditional",
+      "description": "Classic, timeless design with rich colors, elegant furniture, and formal arrangements.",
+      "prompt": "Traditional interior design with classic furniture (wingback chairs, Queen Anne style), rich color palette (burgundy, navy, gold, cream), formal arrangements, ornate details, Persian rugs, crown molding, chandeliers, symmetry, and timeless elegance. Include elements like damask patterns, floral arrangements, and antique accessories."
+    },
+    {
+      "id": "coastal",
+      "name": "Coastal",
+      "description": "Light, breezy aesthetic inspired by beach and ocean with blues, whites, and natural textures.",
+      "prompt": "Coastal interior design featuring light and airy spaces, color palette of blues, whites, and sandy beiges, natural textures (jute, rattan, linen), nautical elements (rope, anchors, shells), whitewashed wood, large windows, casual furniture, and beach-inspired decor. Include elements like striped patterns, driftwood, and ocean-themed artwork."
+    }
+  ]
+}
+
